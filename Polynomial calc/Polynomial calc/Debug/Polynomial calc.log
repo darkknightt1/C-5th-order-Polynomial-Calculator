@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\MY-lenovo\source\repos\Polynomial calc\Polynomial calc\Source.cpp(1059,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\MY-lenovo\source\repos\Polynomial calc\Polynomial calc\Source.cpp(1071,20): warning C4018: '<': signed/unsigned mismatch
+  Polynomial calc.vcxproj -> C:\Users\MY-lenovo\source\repos\Polynomial calc\Debug\Polynomial calc.exe
